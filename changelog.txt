@@ -1,0 +1,24 @@
+V1.3.1
+Initial release:
+* Features include:
+    * Checksum Verification against a Checksum Master List
+    * Creation of a Checksum Master List
+    * Ability to force steam to re-download mods that do not match the Checksum Master List
+    * Credits, License and Basic Help
+    * Opening all missing/mismatched mods in the user's default browser
+    * Importing and Exporting Playsets from the Paradox Launcher for Stellaris
+    
+V1.3.2
+Hotfix:
+* Fixed the "Fix" button for mismatched mods unintentionally corrupting the downloaded workshop items manifest, resulting in steam downloading all subscribed stellaris mods again
+
+V1.4
+Update:
+* Added Check for newer Versions
+* Added Utility tab with following features:
+    * Fixing Missing Descriptor Files
+    * Deleting the Launcher Cache - !!!NOTE THIS DELETES SAVED PLAYSETS!!! This can not be avoided
+    
+V1.4.1
+Hotfix:
+* Fixed bug with fixing missing descriptor files.
